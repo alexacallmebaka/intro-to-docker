@@ -1,4 +1,4 @@
-# HTML, Flask, SQL: Conquering a Fundamental Web Stack
+# Break Free from Dependency Hell with Docker! Containerizing Your Apps for Less Headaches. 
 
 We've all heard the time-honored excuse at some point,
 "It works on my machine".
