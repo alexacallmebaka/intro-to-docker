@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#get a random number mod 2
+if (( $RANDOM % 2  == 1 )); then
+
+  echo "the cat is feeling lazy today... I don't feel like reading ${1} right now..."
+
+else
+
+  #alternative way to print file contents.
+  echo "$(<$1 )"
+
+fi
