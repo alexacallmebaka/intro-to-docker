@@ -13,9 +13,11 @@ containers to isolate your applications and make sure they launch smoothly where
 
 This repository contains all info relevant to the workshop, as well as the code used in the presentation.
 
-You can find the example app on dockerhub [here](https://hub.docker.com/repository/docker/stochasticcyanide/example_app/general).
+The most recent iteration of this talk exists on the master branch, see the tags for pointers to
+past versions!
 
 # Resources
 * [Download Docker](https://docs.docker.com/get-docker/)
+* [Docker 101 Interactive Tutorial](https://www.docker.com/101-tutorial/)
 * [Docker Getting Started Docs](https://docs.docker.com/get-started/overview/)
 * [dockerhub](https://hub.docker.com/)
